@@ -1,3 +1,7 @@
+/*
+ * makeItRain adapted from makeItRain.css by Sarah Lesh.
+ * (https://github.com/sarahlesh/makeItRain).
+ */
 @-webkit-keyframes sway {
 	0% {
 		top: -20px;
@@ -59,7 +63,7 @@
             transform: rotateX(-310deg);
   }
 
-  70%{
+  70% {
     margin-left: 0.5%;
    	-webkit-transform: rotateX(-280deg);
             transform: rotateX(-280deg);

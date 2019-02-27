@@ -2,7 +2,8 @@ Window.onload = makeItRain();
 /*
  * makeItRain adapted from makeItRain.js by Sarah Lesh.
  * (https://github.com/sarahlesh/makeItRain). She created the original concept,
- * I modified it to work in vanilla JavaScript.
+ * Nick Trahan (https://github.com/Nick-Trahan/) modified it to work in vanilla
+ * JavaScript.
  */
 function makeItRain() {
 	const body = document.querySelector('body');
