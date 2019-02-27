@@ -352,15 +352,19 @@ template {
    ========================================================================== */
 
 @font-face {
-  font-family: "HyundaiSansHead-Regular"; 
+  font-family: "HyundaiSansHead-Regular";
   src: url("media/fonts/HyundaiSansHead-Regular.woff") format("woff"),
        url("media/fonts/HyundaiSansHead-Regular.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "HyundaiSansText-Regular"; 
+  font-family: "HyundaiSansText-Regular";
   src: url("media/fonts/HyundaiSansText-Regular.woff") format("woff"),
        url("media/fonts/HyundaiSansText-Regular.woff2") format("woff2");
+}
+
+body {
+  overflow: hidden;
 }
 
 main {
@@ -382,6 +386,7 @@ main {
   text-align: center;
   font-size: 3em;
 
+  margin-top: 0.40em;
   margin-bottom: 0;
 }
 
@@ -396,6 +401,7 @@ main {
 
 #sub-text-lower {
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 #anchorImg {
