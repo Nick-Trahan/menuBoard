@@ -1,0 +1,29 @@
+                            
+/* TEAM */   
+
+Developer: Nick Trahan
+
+Site: https://github.com/Nick-Trahan
+                            
+Twitter: @NickTrahan
+                            
+Location: Baton Rouge, LA, USA
+
+							
+/* THANKS */
+							
+Name: Sarah Lesh
+      For the original makeItRain.js concept
+      (https://github.com/sarahlesh/makeItRain)
+
+Name: Anisha Varghese
+      For the dollar bill SVG
+
+                            
+/* SITE */
+            
+Last update: 2019/02/27
+                            
+Standards: HTML5, CSS3, JavaScript ES6                     
+                            
+Software: VS Code, ImageMagick, git , Git Bash
